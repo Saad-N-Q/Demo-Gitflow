@@ -5,6 +5,8 @@ I Have changed the commit files..!!
 
 Files Changed
 
+Demo for Smart Git for the merge commit..!!!
+
 
 
 
