@@ -1,3 +1,6 @@
 This is to test Git flow
 
 This change is to check Demor Merge Commit..!!!
+
+
+This changes is done for Merge Commit in SmartGit..!!!
