@@ -5,3 +5,5 @@ Hello 1 2 3 ...!!!
 
 
 This change is to check commit branch using Terminal..!!!
+
+This is used to check the Smartgit option..!!!!
